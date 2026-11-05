@@ -1,0 +1,11 @@
+{
+    "name": "My Site",
+    "url": "https://my-site.com",
+    "description": "This is my site",
+    "keywords": ["site", "my", "site"],
+    "author": "John Doe",
+    "version": "1.0.0",
+    "sites" : [
+        "https://pulandit.asia"
+    ]
+}
